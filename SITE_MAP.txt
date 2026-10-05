@@ -1,0 +1,14 @@
+Ramya Vasudevan — page map
+
+index.html            Home: identity, Under the Tree, books, impact, gallery
+about.html            Biography, chronology, reading life, career
+under-the-tree.html   Under the Tree origin, method, themes and listening paths
+books.html            Dedicated authored books and writing page
+media.html            YouTube, podcast, interviews, launch videos and listening links
+impact.html           Libraries, education, accessibility, honours and milestones
+gallery.html          Full painterly visual journal
+purple-tint.html      “Stories after dusk” editorial interlude
+contact.html          Public collaboration and contact routes
+sources.html          Selected references and editorial notes
+
+design-references/ preserves the two supplied visual templates.

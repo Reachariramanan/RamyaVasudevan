@@ -1,0 +1,9 @@
+{
+  "name": "Ramya Vasudevan",
+  "short_name": "Ramya Vasudevan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2dfb9",
+  "theme_color": "#f2dfb9",
+  "icons": []
+}

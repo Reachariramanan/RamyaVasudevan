@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1040" viewBox="0 0 720 1040">
+<rect width="720" height="1040" rx="26" fill="#f7e8c9"/>
+<path d="M0 0h720v250C570 320 420 190 260 300S60 350 0 430Z" fill="#8f3149"/>
+<path d="M0 760c170-130 330 90 505-35 95-68 150-50 215-20v335H0Z" fill="#f1b64b" opacity=".9"/>
+<circle cx="570" cy="170" r="98" fill="#f1b64b" opacity=".95"/>
+<circle cx="570" cy="170" r="66" fill="none" stroke="#f7e8c9" stroke-width="4" stroke-dasharray="12 12" opacity=".9"/>
+<text x="570" y="194" text-anchor="middle" font-family="Georgia,serif" font-size="74" fill="#f7e8c9">✺</text>
+<text x="60" y="455" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#1f302d"><tspan x="60" dy="0">LALITHA
+SAHASRANAMAM</tspan></text>
+<text x="60" y="650" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#8f3149"><tspan x="60" dy="0">Aadhi Sakthikku
+Aayiram Namangal</tspan></text>
+<path d="M55 720c120 24 220-35 340 0s195 3 270-25" fill="none" stroke="#1f302d" stroke-width="5" stroke-linecap="round" opacity=".5"/>
+<text x="60" y="910" font-family="Arial,sans-serif" font-size="25" letter-spacing="4" fill="#1f302d">RAMYA VASUDEVAN</text>
+<text x="60" y="962" font-family="Georgia,serif" font-size="20" font-style="italic" fill="#1f302d" opacity=".7">sample cover artwork · replace with publisher art if licensed</text>
+</svg>
